@@ -47,7 +47,6 @@ export default function News({ navVisible }) {
                   </div>
                 ))}
               </div>
-
               {/* News Articles Section */}
               <div>
                 {news.map((article, index) => (

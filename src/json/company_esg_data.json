@@ -1,0 +1,70 @@
+
+
+    {
+    "Mining": {
+        "Newmont Corporation": {
+            "Environmental (E)": 50,
+            "Social (S)": 40,
+            "Governance (G)": 60
+        },
+        "Freeport-McMoRan": {
+            "Environmental (E)": 50,
+            "Social (S)": 40,
+            "Governance (G)": 60
+        },
+        "Southern Copper Corporation": {
+            "Environmental (E)": 50,
+            "Social (S)": 40,
+            "Governance (G)": 60
+        },
+        "Peabody Energy": {
+            "Environmental (E)": 50,
+            "Social (S)": 40,
+            "Governance (G)": 60
+        },
+        "Alcoa Corporation": {
+            "Environmental (E)": 50,
+            "Social (S)": 40,
+            "Governance (G)": 60
+        }
+    },
+    "Media and Entertainment": {
+        "The Walt Disney Company": {
+            "Environmental (E)": "N/A",
+            "Social (S)": "N/A",
+            "Governance (G)": "N/A"
+        },
+        "Comcast Corporation": {
+            "Environmental (E)": "N/A",
+            "Social (S)": "N/A",
+            "Governance (G)": "N/A"
+        },
+        "Netflix, Inc.": {
+            "Environmental (E)": "N/A",
+            "Social (S)": "N/A",
+            "Governance (G)": "N/A"
+        },
+        "Warner Bros. Discovery, Inc.": {
+            "Environmental (E)": "N/A",
+            "Social (S)": "N/A",
+            "Governance (G)": "N/A"
+        },
+        "ViacomCBS Inc.": {
+            "Environmental (E)": "N/A",
+            "Social (S)": "N/A",
+            "Governance (G)": "N/A"
+        }
+    },
+    "Technology": {
+        "Microsoft Corporation": {
+            "Environmental (E)": 95,
+            "Social (S)": 92,
+            "Governance (G)": 90
+        },
+        "Apple Inc.": {
+            "Environmental (E)": 95,
+            "Social (S)": 92,
+            "Governance (G)": 90
+        }
+    }
+}

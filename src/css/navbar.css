@@ -11,7 +11,7 @@ nav{
 	justify-content: space-between;
 	width:20%;
 	min-height: 90vh;
-	background-color: #753ffd;
+	background: linear-gradient(45deg, #402f6b, #704e9d);
 	padding:2rem 1rem 1rem 1rem;
 	transition: transform 1s;
 }

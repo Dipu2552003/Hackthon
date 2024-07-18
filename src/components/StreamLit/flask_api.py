@@ -8,10 +8,10 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Streamlit App in Flask</title>
+        <title>Predict</title>
     </head>
     <body>
-        <h1>Streamlit App Embedded in Flask</h1>
+        <h1></h1>
         <iframe src="http://localhost:8501" width="100%" height="800px"></iframe>
     </body>
     </html>
