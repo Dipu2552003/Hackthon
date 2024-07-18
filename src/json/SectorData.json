@@ -1,16 +1,11 @@
 [
-    { "sector": "Technology", "score": 1 },
-    { "sector": "Healthcare", "score": 1 },
-    { "sector": "Finance", "score": 1 },
-    { "sector": "Energy", "score": -0 },
-    { "sector": "Consumer Staples", "score": -0 },
-    { "sector": "Utilities", "score": 1 },
-    { "sector": "Real Estate", "score": 1 },
-    { "sector": "Materials", "score": -0 },
-    { "sector": "Industrials", "score": 1 },
-    { "sector": "Consumer Discretionary", "score": 1 },
-    { "sector": "Telecommunications", "score": 1 },
-    { "sector": "Information Technology", "score": 1 },
-    { "sector": "Financial Services", "score": 1 }
-  ]
-  
+  { "sector": "Media and Entertainment", "score": 0.948060154914856 },
+  { "sector": "IT", "score": 0.998224675655365 },
+  { "sector": "Real Estate", "score": -0.9298278093338013 },
+  { "sector": "Finance", "score": 0.9783339500427246 },
+  { "sector": "Technology", "score": -0.9995971322059631 },
+  { "sector": "Education", "score": 0.99793541431427 },
+  { "sector": "Pharma", "score": 0.9980846643447876 },
+  { "sector": "Energy", "score": 0.99793541431427 },
+  { "sector": "Retail", "score": -0.9899543523788452 }
+]
